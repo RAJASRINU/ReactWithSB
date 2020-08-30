@@ -1,4 +1,4 @@
-# It's a sample crud operations app with React + spring boot + hibernate + mysql
+# It's a sample crud operations app using React + spring boot + hibernate + mysql
 1. Open application.properties file from src\main\resources and update schema name , mysql schema name and password
 2. Navigate to frontend folder and run npm install
 3. Run a maven command clean install, which will generate war file with react component and spring boot code
